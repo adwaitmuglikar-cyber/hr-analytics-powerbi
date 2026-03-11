@@ -160,8 +160,9 @@ This project showcases:
 ## 📬 Contact
 
 For collaboration or inquiries:  
-**LinkedIn:** https://www.linkedin.com/in/rohan-thube-423403239/ 
-**Email:** thuberaj@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/advait-muglikar/ 
+**Email:** adwaitmuglikar@gmail.com
+
 
 
 

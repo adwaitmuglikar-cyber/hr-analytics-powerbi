@@ -5,7 +5,7 @@ Designed to help HR teams and business leaders make data-driven decisions with c
 
 ---
 
-## 👨‍💼 Designed by **Rohan Thube | Business & Data Analyst**
+## 👨‍💼 Designed by **Advait Muglikar | Business & Data Analyst**
 
 ---
 
@@ -101,21 +101,19 @@ Data files included in `/Data` folder:
 
 ---
 
-## 📊 Dashboard Previews
+## Dashboard Previews
 
-### Dashboard Previews
+### Executive Summary Dashboard
+![Executive Summary](screenshots/Executive%20summary.png)
 
-#### Executive Summary Dashboard
-![Executive Summary](./screenshots/Executive_summary.png)
+### Hiring Trend Analysis
+![Hiring Trend Analysis](screenshots/Hiring%20Trend%20Analysis.png)
 
-#### Hiring Trend Analysis
-![Hiring Trend Analysis](./screenshots/Hiring_Trend_Analysis.png)
+### Recruitment Channel Analysis
+![Recruitment Channel Analysis](screenshots/Recruitment%20Channel%20Analysis.png)
 
-#### Recruitment Channel Analysis
-![Recruitment Channel Analysis](./screenshots/Recruitment_Channel_Analysis.png)
-
-#### Relocation & CTC Analysis
-![Relocation CTC Analysis](./screenshots/Relocation_CTC_Analysis.png)
+### Relocation & CTC Analysis
+![Relocation CTC Analysis](screenshots/Relocation%20%26%20CTC%20Analysis.png)
 
 
 ---
@@ -164,6 +162,7 @@ This project showcases:
 For collaboration or inquiries:  
 **LinkedIn:** https://www.linkedin.com/in/rohan-thube-423403239/ 
 **Email:** thuberaj@gmail.com
+
 
 
 
